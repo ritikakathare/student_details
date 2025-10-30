@@ -1,0 +1,6 @@
+name=(input("enter teacher's name"))
+subject=(input("enter subject taught"))
+course-code=(input("enter course code"))
+print(f"name of the teacher is:{name}")
+print(f"subject taught is:{subject}")
+print(f"course code of the subject is:{course-code}")

@@ -1,0 +1,8 @@
+name=input("enter the name of student")
+age=int(input("enter the age of the student")
+usn=int(input("enter the usn of the student")
+address=input("enter the address of the student")
+print("Name:",name)
+print("Age:",age)
+print("USN;",usn)
+print("Address:",address)
